@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\blank.xnb</Output>
+      <Output>C:\Users\Hrasko\Documents\git\xna-sort\source\PesquisaOrdenação\bin\x86\Debug\Content\blank.xnb</Output>
       <Time>2010-05-08T17:35:10-03:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\background.xnb</Output>
+      <Output>C:\Users\Hrasko\Documents\git\xna-sort\source\PesquisaOrdenação\bin\x86\Debug\Content\background.xnb</Output>
       <Time>2010-05-08T17:35:12-03:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Output>C:\Users\Hrasko\Documents\git\xna-sort\source\PesquisaOrdenação\bin\x86\Debug\Content\gradient.xnb</Output>
       <Time>2010-05-08T17:35:12-03:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\arrow.xnb</Output>
+      <Output>C:\Users\Hrasko\Documents\git\xna-sort\source\PesquisaOrdenação\bin\x86\Debug\Content\arrow.xnb</Output>
       <Time>2010-05-08T17:35:10-03:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Output>C:\Users\Hrasko\Documents\git\xna-sort\source\PesquisaOrdenação\bin\x86\Debug\Content\menufont.xnb</Output>
       <Time>2010-05-08T17:35:12-03:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\algorithmfont.xnb</Output>
+      <Output>C:\Users\Hrasko\Documents\git\xna-sort\source\PesquisaOrdenação\bin\x86\Debug\Content\algorithmfont.xnb</Output>
       <Time>2010-05-08T17:35:10-03:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\signfont.xnb</Output>
+      <Output>C:\Users\Hrasko\Documents\git\xna-sort\source\PesquisaOrdenação\bin\x86\Debug\Content\signfont.xnb</Output>
       <Time>2010-05-10T09:57:20-03:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -70,10 +70,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Hrasko\Documents\git\xna-sort\source\PesquisaOrdenação\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Hrasko\Documents\git\xna-sort\source\PesquisaOrdenação\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Hrasko\Documents\git\xna-sort\source\PesquisaOrdenação\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Hrasko\Documents\git\xna-sort\source\PesquisaOrdenação\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

@@ -1,1 +1,2 @@
 C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hrasko\Documents\git\xna-sort\source\PesquisaOrdenação\Content\obj\x86\Debug\ResolveAssemblyReference.cache

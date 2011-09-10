@@ -150,10 +150,6 @@
     <Compile Include="Screens\PauseMenuScreen.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="1315679253_sort_ascending.ico" />
-    <Content Include="1315679325_sort_ascending.png" />
-    <Content Include="Game.ico" />
-    <Content Include="GameThumbnail.png" />
     <Content Include="Sort.ico" />
     <Content Include="SortThumbnail.png" />
     <None Include="Core\BarRandomFactory.cs_removido" />
