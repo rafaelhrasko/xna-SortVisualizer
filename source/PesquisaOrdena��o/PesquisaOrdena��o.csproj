@@ -13,8 +13,8 @@
     <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
     <XnaPlatform>Windows</XnaPlatform>
     <XnaCrossPlatformGroupID>cac3c986-1fea-4821-8010-b177e18e49ae</XnaCrossPlatformGroupID>
-    <ApplicationIcon>Game.ico</ApplicationIcon>
-    <Thumbnail>GameThumbnail.png</Thumbnail>
+    <ApplicationIcon>Sort.ico</ApplicationIcon>
+    <Thumbnail>SortThumbnail.png</Thumbnail>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <SccProjectName>
     </SccProjectName>
@@ -150,8 +150,12 @@
     <Compile Include="Screens\PauseMenuScreen.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="1315679253_sort_ascending.ico" />
+    <Content Include="1315679325_sort_ascending.png" />
     <Content Include="Game.ico" />
     <Content Include="GameThumbnail.png" />
+    <Content Include="Sort.ico" />
+    <Content Include="SortThumbnail.png" />
     <None Include="Core\BarRandomFactory.cs_removido" />
     <Compile Include="Core\Avisador.cs" />
     <Compile Include="Core\Pivot.cs" />
