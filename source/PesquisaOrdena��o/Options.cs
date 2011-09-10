@@ -53,7 +53,7 @@
                 credits.Add("Programa feito por Code59, em 2010");
                 credits.Add("Arquitetura: Hallen Fred e Rafael Hrasko");
                 credits.Add("Thread control: Hallen Fred");
-                credits.Add("Algoritmos: Viktor");
+                credits.Add("Algoritmos: Victor Lemos");
                 credits.Add("Front-End: Rafael Hrasko e Eduardo Araujo");
                 credits.Add("Agradecemos a Professora Chintia, que fez o pedido desse software");
 
