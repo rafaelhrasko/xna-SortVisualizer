@@ -1,0 +1,2 @@
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\Content\obj\x86\Debug\ResolveAssemblyReference.cache

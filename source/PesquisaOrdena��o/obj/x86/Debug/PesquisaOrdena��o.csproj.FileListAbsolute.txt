@@ -1,0 +1,53 @@
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\PesquisaOrdenação.exe
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\PesquisaOrdenação.pdb
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\PesquisaOrdenação.exe
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\PesquisaOrdenação.pdb
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\blank.xnb
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\background.xnb
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\arrow.xnb
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\algorithmfont.xnb
+C:\Users\Hrasko\Documents\Visual Studio 2008\Projects\FAESA\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\signfont.xnb
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\blank.xnb
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\background.xnb
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\gradient.xnb
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\arrow.xnb
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\menufont.xnb
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\algorithmfont.xnb
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\signfont.xnb
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\PesquisaOrdenação.exe
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\PesquisaOrdenação.pdb
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\PesquisaOrdenação.exe
+F:\Faesa\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\PesquisaOrdenação.pdb
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\blank.xnb
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\background.xnb
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\gradient.xnb
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\arrow.xnb
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\menufont.xnb
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\algorithmfont.xnb
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\signfont.xnb
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\PesquisaOrdenação.exe
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\PesquisaOrdenação.pdb
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\PesquisaOrdenação.exe
+F:\Visual Studio\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\PesquisaOrdenação.pdb
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\PesquisaOrdenação.exe
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\blank.xnb
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\background.xnb
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\arrow.xnb
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\algorithmfont.xnb
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\Content\signfont.xnb
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\PesquisaOrdenação.exe.config
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\PesquisaOrdenação.exe
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\bin\x86\Debug\PesquisaOrdenação.pdb
+C:\Users\Hrasko\Desktop\PesquisaOrdenação\PesquisaOrdenação\obj\x86\Debug\PesquisaOrdenação.pdb

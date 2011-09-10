@@ -1,0 +1,58 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
+using Microsoft.Xna.Framework.Content;
+using Microsoft.Xna.Framework.GamerServices;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media;
+using Microsoft.Xna.Framework.Net;
+using Microsoft.Xna.Framework.Storage;
+
+
+namespace PO
+{
+    /// <summary>
+    /// This is a game component that implements IUpdateable.
+    /// </summary>
+    public class Listener
+    {
+        public Vector2 position;
+        public string name;
+        public Color myColor;
+
+        public int listeningTo;
+        int listenTo;
+
+        public Listener(string name, int listenTo)
+        {
+            this.name = name;
+            this.position = Vector2.Zero;
+            listeningTo = listenTo;
+        }
+
+        public void Sync(int listenTo)
+        {
+            if (listenTo != listeningTo)
+            {
+                this.listenTo = listenTo;
+                if (AlgorithmState.bars[listeningTo].isStopped)
+                {
+                    listeningTo = listenTo;
+                }
+            }
+        }
+
+
+        /// <summary>
+        /// Allows the game component to update itself.
+        /// </summary>
+        public void Update()
+        {
+            this.position = AlgorithmState.bars[listeningTo].position;
+            position.Y += Options.listenerOffset * Options.ScreenHeight;           
+        }
+    }
+}

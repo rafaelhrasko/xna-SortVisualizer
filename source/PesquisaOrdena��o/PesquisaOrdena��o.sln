@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PesquisaOrdenação", "PesquisaOrdenação\PesquisaOrdenação.csproj", "{B516F358-9584-46E0-AAF9-625BCBDB3593}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PesquisaOrdenação\\PesquisaOrdenação.csproj
+		SccProjectName1 = PesquisaOrdenação
+		SccLocalPath1 = PesquisaOrdenação
+		SccProjectUniqueName2 = PesquisaOrdenação\\Content\\Content.contentproj
+		SccProjectTopLevelParentUniqueName2 = PesquisaOrdenação\\PesquisaOrdenação.csproj
+		SccProjectName2 = PesquisaOrdenação/Content
+		SccLocalPath2 = PesquisaOrdenação\\Content
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B516F358-9584-46E0-AAF9-625BCBDB3593}.Debug|x86.ActiveCfg = Debug|x86
+		{B516F358-9584-46E0-AAF9-625BCBDB3593}.Debug|x86.Build.0 = Debug|x86
+		{B516F358-9584-46E0-AAF9-625BCBDB3593}.Release|x86.ActiveCfg = Release|x86
+		{B516F358-9584-46E0-AAF9-625BCBDB3593}.Release|x86.Build.0 = Release|x86
+		{7385204D-2EEE-4B6A-8001-6E776E8BA1FE}.Debug|x86.ActiveCfg = Debug|x86
+		{7385204D-2EEE-4B6A-8001-6E776E8BA1FE}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
